@@ -8,8 +8,8 @@ Le centre de recherche Breizhmeiz International souhaite un petit module d'accè
 # Modalités pédagogiques
 
 Le projet se fait seul et doit être rendu vendredi soir. Vous allez suivre les étapes suivantes pour réaliser le projet : 
-- [ ] Créer la base DBLP et y ajouter une collection publis.
-- [ ] Importer dans la base les données du fichier dblp.json (Ca peut prendre un peu de temps).
+- [x] Créer la base DBLP et y ajouter une collection publis.
+- [x] Importer dans la base les données du fichier dblp.json (Ca peut prendre un peu de temps).
 - [ ] Écrire le script Python pour tester la base.
 - [ ] Exécuter le script.
 - [ ] Vérifier les résultats.

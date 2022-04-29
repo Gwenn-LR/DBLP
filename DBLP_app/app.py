@@ -45,7 +45,6 @@ class MongoConnector:
         f = open(fname, 'r')
         with open(fname, 'r') as f:
             for line in f:
-                line = line.replace('^', "**")
                 try:
                     data = json.loads(line)
                 except:
